@@ -1,2 +1,4 @@
 www.youtube.com
 www.youtube.pl
+0.0.0.0 www.youtube.com
+0.0.0.0 www.youtube.pl
